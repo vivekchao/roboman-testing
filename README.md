@@ -1,4 +1,4 @@
-# robofriends-testing
+# roboman-testing
 
 To run the project:
 
